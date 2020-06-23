@@ -11,7 +11,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd912ee5-f16c-4766-9eec-2d1904f1cb68" name="Default Changelist" comment="" />
+    <list default="true" id="cd912ee5-f16c-4766-9eec-2d1904f1cb68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,18 +182,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="935" y="295" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592904307743" />
-    <state x="613" y="296" width="707" height="488" key="find.popup" timestamp="1592907432776">
+    <state x="613" y="296" width="707" height="488" key="find.popup" timestamp="1592908197537">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="613" y="296" width="707" height="488" key="find.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907432776" />
+    <state x="613" y="296" width="707" height="488" key="find.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592908197537" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1592902428794">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592902428794" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1592907580233">
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1592908199404">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907580233" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592908199404" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
