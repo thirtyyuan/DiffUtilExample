@@ -35,7 +35,7 @@ public class EmployeeRecyclerViewAdapter extends
         final Employee employee = mEmployees.get(position);
         holder.name.setText(employee.getName());
         holder.role.setText(employee.getRole());
-        Log.d("MyTag", "position=" + position + ", employee=" + employee);
+        Log.d("MyTag", "onBindViewHolder() position=" + position + ", employee=" + employee);
     }
 
     public void updateEmployeeListItems(List<Employee> employees) {
@@ -44,6 +44,9 @@ public class EmployeeRecyclerViewAdapter extends
 
         this.mEmployees.clear();
         this.mEmployees.addAll(employees);
+        for (int i = 0; i < employees.size(); i++) {
+            Log.d("MyTag", "updateList() i=" + i + ", employee=" + employees.get(i));
+        }
         diffResult.dispatchUpdatesTo(this);
     }
 

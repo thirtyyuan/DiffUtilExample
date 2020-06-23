@@ -50,9 +50,6 @@ public class DummyEmployeeDataUtils {
         for (int i = 10; i < 20; i++) {
             employees.add(new Employee(i, "Employee " + i, "Sr. Developer"));
         }
-        for (int i = 0; i < employees.size(); i++) {
-            Log.d("MyTag", "employeeList i=" + i + ", employee=" + employees.get(i));
-        }
         return employees;
     }
 }

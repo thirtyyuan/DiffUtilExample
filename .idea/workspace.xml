@@ -12,8 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd912ee5-f16c-4766-9eec-2d1904f1cb68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sample/diffutil/utils/DummyEmployeeDataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sample/diffutil/utils/DummyEmployeeDataUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,25 +141,25 @@
       <screen x="0" y="23" width="1866" height="1057" />
     </state>
     <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1591858564971" />
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1592907511785">
+    <state width="1878" height="600" key="GridCell.Tab.0.bottom" timestamp="1592909212853">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511785" />
+    <state width="1878" height="600" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592909212853" />
     <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204214" />
-    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1592907511784">
+    <state width="1878" height="600" key="GridCell.Tab.0.center" timestamp="1592909212852">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511784" />
+    <state width="1878" height="600" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592909212852" />
     <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204212" />
-    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1592907511782">
+    <state width="1878" height="600" key="GridCell.Tab.0.left" timestamp="1592909212851">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511782" />
+    <state width="1878" height="600" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592909212851" />
     <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204210" />
-    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1592907511785">
+    <state width="1878" height="600" key="GridCell.Tab.0.right" timestamp="1592909212852">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511785" />
+    <state width="1878" height="600" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592909212852" />
     <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204213" />
     <state width="1878" height="399" key="GridCell.Tab.1.bottom" timestamp="1592906211886">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -182,10 +189,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="935" y="295" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592904307743" />
-    <state x="613" y="296" width="707" height="488" key="find.popup" timestamp="1592908197537">
+    <state x="613" y="296" width="707" height="488" key="find.popup" timestamp="1592908731549">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="613" y="296" width="707" height="488" key="find.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592908197537" />
+    <state x="613" y="296" width="707" height="488" key="find.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592908731549" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1592902428794">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
