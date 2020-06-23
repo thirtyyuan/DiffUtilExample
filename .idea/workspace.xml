@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="MyTag" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd912ee5-f16c-4766-9eec-2d1904f1cb68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RFCN30A5DWK" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DiffUtilExample" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dA7nWxU2VLJiyNXJe1gCbgDNnx" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd912ee5-f16c-4766-9eec-2d1904f1cb68" name="Default Changelist" comment="" />
+      <created>1591856211728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591856211728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1591858450132">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1591858450132" />
+    <state width="507" height="466" key="DebuggerActiveHint" timestamp="1592901534896">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="507" height="466" key="DebuggerActiveHint/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592901534896" />
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1591858564971">
+      <screen x="0" y="23" width="1866" height="1057" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1591858564971" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom" timestamp="1592907511785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511785" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204214" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center" timestamp="1592907511784">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511784" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204212" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left" timestamp="1592907511782">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511782" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204210" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right" timestamp="1592907511785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907511785" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902204213" />
+    <state width="1878" height="399" key="GridCell.Tab.1.bottom" timestamp="1592906211886">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="399" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592906211886" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902206240" />
+    <state width="1878" height="399" key="GridCell.Tab.1.center" timestamp="1592906211885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="399" key="GridCell.Tab.1.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592906211885" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902206232" />
+    <state width="1878" height="399" key="GridCell.Tab.1.left" timestamp="1592906211884">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="399" key="GridCell.Tab.1.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592906211884" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902206231" />
+    <state width="1878" height="399" key="GridCell.Tab.1.right" timestamp="1592906211885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="399" key="GridCell.Tab.1.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592906211885" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1866.1057/-1680.23.1680.1027@0.23.1866.1057" timestamp="1592902206236" />
+    <state x="609" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1591856507105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="609" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1591856507105" />
+    <state x="935" y="295" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592904307743">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="935" y="295" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592904307743" />
+    <state x="613" y="296" width="707" height="488" key="find.popup" timestamp="1592907432776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="613" y="296" width="707" height="488" key="find.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907432776" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1592902428794">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592902428794" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1592907580233">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1592907580233" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <condition expression="position == 0" language="JAVA" />
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java</url>
+          <line>6155</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <condition expression="mCurrentPosition == 0" language="JAVA" />
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java</url>
+          <line>2302</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java</url>
+          <line>6690</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
